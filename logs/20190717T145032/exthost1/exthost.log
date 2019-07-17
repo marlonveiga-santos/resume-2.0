@@ -18,3 +18,5 @@
 [2019-07-17 14:55:57.933] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
 [2019-07-17 14:55:58.229] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"activationEvent":"onLanguage:javascript"}
 [2019-07-17 14:55:58.229] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
+[2019-07-17 15:27:33.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-17 15:27:33.306] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
