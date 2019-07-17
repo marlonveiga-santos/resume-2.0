@@ -1,0 +1,12 @@
+[2019-07-15 14:09:35.779] [exthost] [info] extension host started
+[2019-07-15 14:09:36.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-15 14:09:36.385] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-15 14:09:36.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-15 14:09:36.417] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-15 14:09:36.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-15 14:09:36.496] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-15 14:09:36.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-15 14:09:36.926] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-15 14:09:38.981] [exthost] [info] ExtensionService#_doActivateExtension olback.es6-css-minify {"startup":true,"activationEvent":"workspaceContains:**/*.css,**/*.js,**/*.json"}
+[2019-07-15 14:09:38.981] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/olback.es6-css-minify-2.7.0/dist/extension
+[2019-07-15 14:09:39.851] [exthost] [info] eager extensions activated

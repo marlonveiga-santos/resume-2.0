@@ -1,0 +1,88 @@
+[2019-07-17 10:45:04.229] [exthost] [info] extension host started
+[2019-07-17 10:45:04.765] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-07-17 10:45:04.765] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/octref.vetur-0.21.1/dist/client/vueMain
+[2019-07-17 10:45:07.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-17 10:45:07.043] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-17 10:45:07.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-17 10:45:07.176] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-17 10:45:07.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-17 10:45:07.721] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-17 10:45:08.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-17 10:45:08.752] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-17 10:45:16.194] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":true,"activationEvent":"workspaceContainsTimeout:**/pubspec.yaml,**/*.dart"}
+[2019-07-17 10:45:16.207] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/dart-code.dart-code-3.2.1/out/dist/extension
+[2019-07-17 10:45:17.213] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContainsTimeout:**/*.php"}
+[2019-07-17 10:45:17.215] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/out/extension
+[2019-07-17 10:45:25.363] [exthost] [info] ExtensionService#_doActivateExtension olback.es6-css-minify {"startup":true,"activationEvent":"workspaceContainsTimeout:**/*.css,**/*.js,**/*.json"}
+[2019-07-17 10:45:25.364] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/olback.es6-css-minify-2.7.0/dist/extension
+[2019-07-17 10:45:47.754] [exthost] [info] eager extensions activated
+[2019-07-17 11:17:30.427] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 11:17:30.540] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 11:17:31.402] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 11:17:31.403] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 12:54:41.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-17 12:54:41.092] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-07-17 12:54:42.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-17 12:54:42.907] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-17 12:54:43.551] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-17 12:54:43.552] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
+[2019-07-17 13:07:25.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-17 13:07:25.468] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-07-17 13:07:25.698] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-17 13:07:25.698] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
+[2019-07-17 13:16:54.765] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 13:16:54.766] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 13:16:56.931] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 13:16:56.932] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 13:16:57.626] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 13:16:57.626] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 13:43:08.423] [exthost] [error] [octref.vetur] provider FAILED
+[2019-07-17 13:43:08.423] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)

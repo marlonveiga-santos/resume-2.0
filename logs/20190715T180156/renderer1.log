@@ -1,0 +1,9 @@
+[2019-07-15 18:02:11.409] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/marlon/Desktop/resumee-2.0/.vscode'
+[2019-07-15 18:07:27.695] [renderer1] [error] Model is disposed!: Error: Model is disposed!
+    at P._assertNotDisposed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1179:509)
+    at P.getVersionId (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1184:300)
+    at e.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4842:533)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:454)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-15 19:15:11.343] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 97% of 519.623ms, saved PROFILE here: '/tmp/exthost-b2ca36.cpuprofile' [{"id":"vscode.git","total":505467,"percentage":97}]

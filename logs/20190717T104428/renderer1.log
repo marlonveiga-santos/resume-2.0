@@ -1,0 +1,57 @@
+[2019-07-17 10:45:02.149] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/marlon/Desktop/resumee-2.0/.vscode'
+[2019-07-17 10:45:27.617] [renderer1] [warning] UNRESPONSIVE extension host, 'felixfbecker.php-intellisense' took 75% of 7314.216ms, saved PROFILE here: '/tmp/exthost-6c51eb.cpuprofile' [{"id":"felixfbecker.php-intellisense","total":5453800,"percentage":75},{"id":"gc","total":7210,"percentage":0},{"id":"self","total":1843239,"percentage":25}]
+[2019-07-17 10:45:38.359] [renderer1] [warning] UNRESPONSIVE extension host, 'Dart-Code.dart-code' took 100% of 5526.415ms, saved PROFILE here: '/tmp/exthost-0f39e8.cpuprofile' [{"id":"Dart-Code.dart-code","total":5512680,"percentage":100},{"id":"gc","total":3295,"percentage":0}]
+[2019-07-17 11:17:30.864] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 12:54:49.489] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-07-17 13:07:43.530] [renderer1] [error] Unable to move/copy when source path is equal or parent of target path: Error: Unable to move/copy when source path is equal or parent of target path
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3345:429)
+    at Generator.next (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:621
+    at new Promise (<anonymous>)
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:398)
+    at b.doValidateMoveCopy (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3345:282)
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:943)
+    at Generator.next (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:621
+    at new Promise (<anonymous>)
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:398)
+    at b.doMoveCopy (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:868)
+    at b.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3343:338)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:454)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-17 13:16:54.769] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 13:16:56.932] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-07-17 13:43:08.447] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:724)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:673)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at asSymbolInformation (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/marlon/.vscode/extensions/octref.vetur-0.21.1/node_modules/vscode-languageclient/lib/client.js:1005:62)
