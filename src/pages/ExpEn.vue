@@ -4,7 +4,7 @@
      <br>
       <router-link to="/" tag="button">Inicio</router-link>
       <router-link to="/home-en" tag="button" id="bt3">English Version</router-link>
-      <router-link to="/home-en" tag="button" onclick="window.open('https://marlonveiga-santos.github.io/myResumee/pages/Curriculo%202019%20-%20English.pdf')" id="bt4"> Resumée- PDF</router-link>
+      <router-link to="/home-en" tag="button" onclick="window.open('https://marlonveiga-santos.github.io/myResumee/pages/Curriculo%202019%20-%20English.pdf')" id="bt4"> Résumé - PDF</router-link>
       <br><br>
       <ul class="menu-sanfona">
     <li tabindex="0"><input type="checkbox" id="opt1"/> <label for="opt1"> <h3>Schoolarship:</h3></label>

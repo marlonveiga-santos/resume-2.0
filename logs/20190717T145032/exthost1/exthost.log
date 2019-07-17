@@ -1,0 +1,20 @@
+[2019-07-17 14:50:53.706] [exthost] [info] extension host started
+[2019-07-17 14:50:54.156] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-07-17 14:50:54.156] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/octref.vetur-0.21.1/dist/client/vueMain
+[2019-07-17 14:50:56.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-17 14:50:56.107] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-17 14:50:56.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-17 14:50:56.189] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-17 14:50:56.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-17 14:50:56.268] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-17 14:50:56.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-17 14:50:56.573] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-17 14:50:59.004] [exthost] [info] ExtensionService#_doActivateExtension olback.es6-css-minify {"startup":true,"activationEvent":"workspaceContains:**/*.css,**/*.js,**/*.json"}
+[2019-07-17 14:50:59.004] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/olback.es6-css-minify-2.7.0/dist/extension
+[2019-07-17 14:51:00.260] [exthost] [info] eager extensions activated
+[2019-07-17 14:55:57.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-17 14:55:57.435] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-17 14:55:57.932] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-17 14:55:57.933] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/out/extension
+[2019-07-17 14:55:58.229] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-17 14:55:58.229] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
