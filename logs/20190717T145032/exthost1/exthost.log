@@ -20,3 +20,15 @@
 [2019-07-17 14:55:58.229] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2/out/index.js
 [2019-07-17 15:27:33.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
 [2019-07-17 15:27:33.306] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-07-17 16:20:39.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-17 16:20:39.308] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-07-17 16:20:39.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-17 16:20:39.436] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-07-17 16:20:39.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-17 16:20:39.738] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-07-17 16:20:50.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-17 16:20:50.049] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-07-17 16:20:50.415] [exthost] [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-17 16:20:50.415] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/davidanson.vscode-markdownlint-0.28.0/extension
+[2019-07-17 16:20:50.591] [exthost] [info] ExtensionService#_doActivateExtension shd101wyy.markdown-preview-enhanced {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-17 16:20:50.591] [exthost] [info] ExtensionService#loadCommonJSModule /home/marlon/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.4.3/out/src/extension

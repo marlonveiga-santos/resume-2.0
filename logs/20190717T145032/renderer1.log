@@ -1,1 +1,2 @@
 [2019-07-17 14:50:54.393] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/marlon/Desktop/resumee-2.0/.vscode'
+[2019-07-17 16:21:01.380] [renderer1] [warning] UNRESPONSIVE extension host, 'shd101wyy.markdown-preview-enhanced' took 98% of 5191.655ms, saved PROFILE here: '/tmp/exthost-49bc5d.cpuprofile' [{"id":"gc","total":71529,"percentage":1},{"id":"program","total":8641,"percentage":0},{"id":"self","total":589,"percentage":0},{"id":"shd101wyy.markdown-preview-enhanced","total":5096784,"percentage":98}]
